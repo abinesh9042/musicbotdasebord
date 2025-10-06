@@ -1,0 +1,19 @@
+{   
+    "host": "localhost",       
+    "port": "8000",
+    "password": "rocky",
+    "client_id": "1408519938423128115",
+    "client_secret_id": "sKpQ0EXVL9RsktWQn5_D1XrnU8zl8VMG",
+    "secret_key": "rockybhai",
+    "redirect_url": "http://127.0.0.1:8000/callback",
+    "logging": {
+        "file": {
+            "path": "./logs",
+            "enable": true
+        },
+        "level": {
+            "dashboard": "INFO"
+        },
+        "max_history": 30
+    }
+}
